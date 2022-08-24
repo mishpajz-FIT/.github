@@ -4,5 +4,5 @@ This "organization" serves as a GitHub directory for repositories containing my 
 
 My main profile is [mishpajz](https://github.com/mishpajz).
 <p align="center">
-[<img src="../img/logo.png" width=80>](https://github.com/mishpajz)
+<a href="https://github.com/mishpajz"><img src="https://github.com/mishpajz-FIT/.github/blob/master/img/logo.png" width=80></a>
 </p>
